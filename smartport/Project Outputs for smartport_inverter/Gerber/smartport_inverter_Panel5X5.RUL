@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\github\rcmodel\smartport\smartport_inverter_Panel5X5.PcbDoc
+RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing Mid-Layer 2|Scope=Board|Minimum=13.78
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing Mid-Layer 1|Scope=Board|Minimum=13.78
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.56
+RuleKind=SolderMaskExpansion|RuleName=ISVIA|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=13.78

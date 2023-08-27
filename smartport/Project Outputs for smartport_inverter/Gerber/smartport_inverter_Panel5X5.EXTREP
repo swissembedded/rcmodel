@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: smartport_inverter_Panel5X5.GBR   27.08.2023  19:44:54
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                3D Layer                                
+.GM2                Draft                                   
+.GM3                Route Tool Path                         
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM7                Mechanical 7                            
+.GM13               Top Assembly                            
+.GM14               Bottom Assembly                         
+.GM15               Top Comp. Keep-Out                      
+.GM16               Bottom Comp. Keep-Out                   
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
